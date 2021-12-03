@@ -41,6 +41,7 @@ pling REPL v.1.0
 - `()` parenthesis delay evaluation (contents are only evaluated when necessary)
 - `#t` `#f` are true and false, like in scheme (lisp-ish language)
 - `=` `<` `>` are for comparisons
+- `&` `|` are boolean operations
 - `+` `-` `*` `/` `%` are for general math 
 that's pretty much it.
 

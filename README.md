@@ -29,9 +29,8 @@ pling REPL v.1.0
 8
 ```
 1. add 2 4s to the evaluation stack,
-2. run add function which pops both off and puts on an 8,
-3. run disp function, which displays the value on the top of the stack
-result: 8
+2. run add function which pops them both off and puts on an 8,
+3. run disp function, which displays the value on the top of the stack displaying 8
 
 ## Special Functions:
 - `:` duplicate value on the evaluation stack
